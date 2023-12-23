@@ -1,4 +1,4 @@
- 
+feature2 
 this changes comming from feature 2
 
 
